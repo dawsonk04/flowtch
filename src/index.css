@@ -19,7 +19,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(145deg, rgba(240, 253, 249, 0.3) 0%, var(--white) 35%, var(--mint-50) 70%, var(--mint-100) 100%);
+  background: linear-gradient(135deg, var(--mint-100) 0%, rgba(209, 250, 229, 0.4) 25%, rgba(240, 253, 249, 0.7) 50%, rgba(209, 250, 229, 0.5) 75%, var(--mint-100) 100%);
   background-attachment: fixed;
   min-height: 100vh;
 }
